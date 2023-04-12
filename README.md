@@ -7,3 +7,5 @@ dashboard public :https://public.tableau.com/app/profile/elakya.v/viz/CO2DASHBOA
  dashboard 3 : https://public.tableau.com/app/profile/elakya.v/viz/CO2DASHBOARD3_16812820530640/DASH3?publish=yes
 
 story public : https://public.tableau.com/app/profile/elakya.v/viz/CO2STORY_16812821205510/CO2EMISSIONSTORY?publish=yes
+
+video demo link : https://drive.google.com/file/d/1-0ZJThAQ7B3bi6-mHsz6DPSoCbuZDIP5/view?usp=share_link
